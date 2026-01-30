@@ -1,4 +1,4 @@
-<h2 align="left">Hi ðŸ‘‹! My name is Ravi Teja Nalluri and I'm a Software Engineer </h2>
+<h2 align="left">Hi World. My name is Ravi Teja Nalluri and I'm a Software Engineer </h2>
 
 ###
 
